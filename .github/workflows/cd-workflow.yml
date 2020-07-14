@@ -1,4 +1,5 @@
-yaml name: Docker CD
+# yaml name: Docker CD
+name: Docker CD
 
 on: [push]
 
